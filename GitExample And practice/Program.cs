@@ -6,6 +6,7 @@ namespace GitExample_And_practice
     {
         static void Main(string[] args)
         {
+            Student s1 = new Student();
             Console.WriteLine("Hello World!");
         }
     }

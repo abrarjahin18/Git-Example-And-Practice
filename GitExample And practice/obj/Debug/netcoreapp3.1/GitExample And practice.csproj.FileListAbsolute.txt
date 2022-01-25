@@ -1,0 +1,13 @@
+G:\GitExample And practice\GitExample And practice\bin\Debug\netcoreapp3.1\GitExample And practice.exe
+G:\GitExample And practice\GitExample And practice\bin\Debug\netcoreapp3.1\GitExample And practice.deps.json
+G:\GitExample And practice\GitExample And practice\bin\Debug\netcoreapp3.1\GitExample And practice.runtimeconfig.json
+G:\GitExample And practice\GitExample And practice\bin\Debug\netcoreapp3.1\GitExample And practice.runtimeconfig.dev.json
+G:\GitExample And practice\GitExample And practice\bin\Debug\netcoreapp3.1\GitExample And practice.dll
+G:\GitExample And practice\GitExample And practice\bin\Debug\netcoreapp3.1\GitExample And practice.pdb
+G:\GitExample And practice\GitExample And practice\obj\Debug\netcoreapp3.1\GitExample And practice.csproj.AssemblyReference.cache
+G:\GitExample And practice\GitExample And practice\obj\Debug\netcoreapp3.1\GitExample And practice.AssemblyInfoInputs.cache
+G:\GitExample And practice\GitExample And practice\obj\Debug\netcoreapp3.1\GitExample And practice.AssemblyInfo.cs
+G:\GitExample And practice\GitExample And practice\obj\Debug\netcoreapp3.1\GitExample And practice.csproj.CoreCompileInputs.cache
+G:\GitExample And practice\GitExample And practice\obj\Debug\netcoreapp3.1\GitExample And practice.dll
+G:\GitExample And practice\GitExample And practice\obj\Debug\netcoreapp3.1\GitExample And practice.pdb
+G:\GitExample And practice\GitExample And practice\obj\Debug\netcoreapp3.1\GitExample And practice.genruntimeconfig.cache
