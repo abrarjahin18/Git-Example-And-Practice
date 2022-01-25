@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\GitExample And practice\\GitExample And practice\\GitExample And practice.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Rupu\\Git-Example-And-Practice\\GitExample And practice\\GitExample And practice.csproj",
       "projectName": "GitExample And practice",
-      "projectPath": "G:\\GitExample And practice\\GitExample And practice\\GitExample And practice.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Rupu\\Git-Example-And-Practice\\GitExample And practice\\GitExample And practice.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "G:\\GitExample And practice\\GitExample And practice\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\Rupu\\Git-Example-And-Practice\\GitExample And practice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
